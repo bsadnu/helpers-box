@@ -1,7 +1,7 @@
 {
   "name": "bsadnu/helpers-box",
   "description": "The huge amount of helpers you can use in any PHP project",
-  "keywords": ["PHP", "helpers", "helper"],
+  "keywords": ["PHP", "helpers", "helper", "helper-functions", "helpers-library", "helper-methods", "helper-tool", "helper-class"],
   "type": "library",
   "license": "MIT",
   "authors": [
