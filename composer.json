@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Bsadnu\\HBox\\": ""
+      "Bsadnu\\HBox\\": "src/"
     }
   }
 }
